@@ -2,8 +2,6 @@
 
 A simple CLI tool that fetches and prints a GitHub user's recent public activity using the GitHub Events API.
 
-- https://roadmap.sh/projects/github-user-activity
-
 This project is built with **PHP 8.2** and **Guzzle**.
 
 ---
@@ -93,3 +91,12 @@ Sample output:
 
 ---
 
+## Project Scope
+
+This project is inspired by a backend practice idea from roadmap.sh.
+All implementation details, architectural decisions, and extensions are independently designed and implemented.
+
+### Reference
+- https://roadmap.sh/projects/github-user-activity
+
+---
